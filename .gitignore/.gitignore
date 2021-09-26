@@ -23,8 +23,8 @@
 hs_err_pid*
 
 # Eclipse
-.classpath
-.project
+*.classpath
+*.project
 .settings/
 HELP.md
 target/
